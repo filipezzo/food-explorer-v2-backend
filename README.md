@@ -71,7 +71,7 @@ $ npm run dev
 ---
 
 
-## :hammer: Utilitários
+## :hammer: Utilities
 
 - Deploy: https://food-explorerv2.netlify.app
 - front-end repository: [**front-end**](https://github.com/filipezzo/food-explorer-v2-frontend)
